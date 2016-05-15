@@ -1,0 +1,18 @@
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\bin\Debug\CalC.exe.config
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\bin\Debug\CalC.exe
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\bin\Debug\CalC.pdb
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.csprojResolveAssemblyReference.cache
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.Calc.resources
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.Properties.Resources.resources
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.csproj.GenerateResource.Cache
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.exe
+C:\Users\Kunjakishor\Desktop\Github\Calc\CalC\CalC\obj\Debug\CalC.pdb
+A:\Github\Lets CSharp\Calc\CalC\CalC\bin\Debug\CalC.exe.config
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.exe
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.pdb
+A:\Github\Lets CSharp\Calc\CalC\CalC\bin\Debug\CalC.exe
+A:\Github\Lets CSharp\Calc\CalC\CalC\bin\Debug\CalC.pdb
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.csprojResolveAssemblyReference.cache
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.Calc.resources
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.Properties.Resources.resources
+A:\Github\Lets CSharp\Calc\CalC\CalC\obj\Debug\CalC.csproj.GenerateResource.Cache

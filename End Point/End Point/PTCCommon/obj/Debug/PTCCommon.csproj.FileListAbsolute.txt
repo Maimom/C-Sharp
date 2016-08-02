@@ -1,0 +1,5 @@
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\bin\Debug\PTCCommon.dll
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\bin\Debug\PTCCommon.pdb
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\obj\Debug\PTCCommon.csprojResolveAssemblyReference.cache
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\obj\Debug\PTCCommon.dll
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\obj\Debug\PTCCommon.pdb

@@ -1,0 +1,8 @@
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\bin\Debug\EndPointCommon.dll
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\bin\Debug\EndPointCommon.pdb
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\obj\Debug\EndPointCommon.dll
+C:\Users\Kunjakishor\Desktop\Plural Sight\mvc-application-techniques\5-mvc-application-techniques-m5-exercise-files\PTCCommon\obj\Debug\EndPointCommon.pdb
+A:\Github\C-Sharp\End Point\End Point\PTCCommon\bin\Debug\EndPointCommon.dll
+A:\Github\C-Sharp\End Point\End Point\PTCCommon\bin\Debug\EndPointCommon.pdb
+A:\Github\C-Sharp\End Point\End Point\PTCCommon\obj\Debug\EndPointCommon.dll
+A:\Github\C-Sharp\End Point\End Point\PTCCommon\obj\Debug\EndPointCommon.pdb

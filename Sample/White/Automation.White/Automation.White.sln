@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.White", "Automation.White\Automation.White.csproj", "{2287F6EF-5BE8-4554-A76C-8894E687488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2287F6EF-5BE8-4554-A76C-8894E687488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2287F6EF-5BE8-4554-A76C-8894E687488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2287F6EF-5BE8-4554-A76C-8894E687488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2287F6EF-5BE8-4554-A76C-8894E687488E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_9(Area of Rectangle)", "Lesson_9(Area of Rectangle)\Lesson_9(Area of Rectangle).csproj", "{774C1885-E19F-450E-8D5F-9C6E65543476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774C1885-E19F-450E-8D5F-9C6E65543476}.Debug|x86.ActiveCfg = Debug|x86
+		{774C1885-E19F-450E-8D5F-9C6E65543476}.Debug|x86.Build.0 = Debug|x86
+		{774C1885-E19F-450E-8D5F-9C6E65543476}.Release|x86.ActiveCfg = Release|x86
+		{774C1885-E19F-450E-8D5F-9C6E65543476}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

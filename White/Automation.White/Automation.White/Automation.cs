@@ -13,10 +13,6 @@ using TestStack.White.UIItems.Finders;
 using TestStack.White.UIItems.WindowItems;
 
 
-
-
-
-
 namespace Automation.White
 {
     public partial class Automation : Form
